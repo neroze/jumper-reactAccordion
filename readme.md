@@ -1,4 +1,8 @@
-## Uses
+### Preview
+	![alt text](./preview/section1.png)
+	![alt text](./preview/section2.png)
+
+### Uses
 ```
 import ToggleSection from 'toggleSections';
 
@@ -50,5 +54,5 @@ import ToggleSection from 'toggleSections';
 	.
 	.
 	.
-	
+
 	```
