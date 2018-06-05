@@ -1,6 +1,7 @@
+
 ### Preview
-	![alt text](./preview/section1.png)
-	![alt text](./preview/section2.png)
+![alt tag](./preview/section1.png )
+![alt tag](./preview/section2.png )
 
 ### Uses
 ```
